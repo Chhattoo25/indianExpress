@@ -1,5 +1,9 @@
 # Masai School Construct Week Project
 
+![image](https://user-images.githubusercontent.com/95302680/177006027-e0987ef2-320e-4814-b929-61dd4d5b3212.png)
+
+
+
 Welcome, we're are team “Indian Express”, and this Readme contains details about our project. We‘ve built a cloned website of Indian Express with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
 
 
